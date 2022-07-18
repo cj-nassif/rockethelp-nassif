@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "rockethelp-nassif",
+    "slug": "rockethelp-nassif",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
