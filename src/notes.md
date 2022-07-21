@@ -40,3 +40,11 @@ https://phosphoricons.com/
 
 - [x] yarn add phosphor-react-native
 
+### Lib Navegação - React Navigation
+
+https://reactnavigation.org/docs/getting-started/
+
+- [x] yarn add @react-navigation/native
+- [x] expo install react-native-screens 
+- [x] yarn add @react-navigation/native-stack
+
