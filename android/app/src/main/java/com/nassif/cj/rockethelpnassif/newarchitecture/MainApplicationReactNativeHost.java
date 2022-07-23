@@ -1,4 +1,4 @@
-package com.rockethelpnassif.newarchitecture;
+package com.nassif.cj.rockethelpnassif.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.rockethelpnassif.BuildConfig;
-import com.rockethelpnassif.newarchitecture.components.MainComponentsRegistry;
-import com.rockethelpnassif.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.nassif.cj.rockethelpnassif.BuildConfig;
+import com.nassif.cj.rockethelpnassif.newarchitecture.components.MainComponentsRegistry;
+import com.nassif.cj.rockethelpnassif.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "691794529955",
+    "project_id": "rockethelpnassif",
+    "storage_bucket": "rockethelpnassif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691794529955:android:ed5d8af1d5a6d09b877916",
+        "android_client_info": {
+          "package_name": "com.nassif.cj.rockethelpnassif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691794529955-j61rsjehpgkljfh7srq0f28apalobg75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz3scf0QgPm45EFYAp289WrXvYi-x18UI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691794529955-j61rsjehpgkljfh7srq0f28apalobg75.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "691794529955-ubict614r1lt46m3e348lt7vvsdqnf4d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nassif.cj.rockethelpnassif"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

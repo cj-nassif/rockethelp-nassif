@@ -1,4 +1,4 @@
-package com.rockethelpnassif.newarchitecture.modules;
+package com.nassif.cj.rockethelpnassif.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;

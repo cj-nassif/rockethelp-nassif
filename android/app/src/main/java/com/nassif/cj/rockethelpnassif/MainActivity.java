@@ -1,4 +1,4 @@
-package com.rockethelpnassif;
+package com.nassif.cj.rockethelpnassif;
 
 import android.os.Build;
 import android.os.Bundle;
